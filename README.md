@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Angular-Getting Started
 Materials for the ["Angular: Getting Started"](http://bit.ly/Angular-GettingStarted) course on Pluralsight.
 
@@ -55,3 +56,6 @@ To install packages in Stackblitz, such as bootstrap and font-awesome, you need 
 Stackblitz does not seem to recognize the Font Awesome icons. So you will instead see portions of squares.
 
 Stackbliz has the Angular CLI commands built in. Instead of installing the Angular CLI to your system, right-click on a folder in Stackblitz and you'll see an "Angular Generator" option. Under that menu you'll find the Angular CLI commands.
+=======
+# Angular-ProductManagement
+>>>>>>> 8e73511aa265545c582d83c3a80a9fbc27edc053
